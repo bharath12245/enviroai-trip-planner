@@ -1,0 +1,13 @@
+project_id = "cjdpzzrqivotljemfvth"
+
+[functions.deals]
+verify_jwt = false
+
+[functions.places]
+verify_jwt = false
+
+[functions.weather]
+verify_jwt = false
+
+[functions.itinerary]
+verify_jwt = false
